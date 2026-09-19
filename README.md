@@ -1,4 +1,4 @@
-### Abdellah HARCHOUNE · @Harchoune
+### ABDELLAH HARCHOUNE · @Harchoune
 
 Élève-ingénieur 5e année — ENSA El Jadida, filière ISIC
 

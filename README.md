@@ -10,4 +10,4 @@ Je construis mes compétences en détection et défense sur des labs concrets.
 
 **Stack** — `Wazuh` `Wireshark` `Linux (Ubuntu/Kali)` `pfSense` `Cisco` `Java/Spring Boot` `Python`
 
-**Certifications** — Fortinet NSE 1/2/3 · Google Cybersecurity Professional Certificate *(en cours, 2026)*
+**Certifications** — Google Cybersecurity Professional Certificate *(en cours, 2026)*
